@@ -219,4 +219,5 @@ Scans each row and column (on a downscaled copy for speed) counting background-c
 
 ## License
 
-MIT — free to use, modify, and distribute.
+Apache 2.0 — see [LICENSE](LICENSE) for full terms.  
+Copyright 2025 NikoCloud
